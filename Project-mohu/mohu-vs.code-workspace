@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": ".bolt"
+		},
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "dist"
+		}
+	],
+	"settings": {}
+}
